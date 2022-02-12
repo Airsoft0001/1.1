@@ -1,7 +1,7 @@
 
 
 
-local HWIDTable = loadstring(game:HttpGet("https://raw.githubusercontent.com/Airsoft0001/1.1/main/lllllllllllllllIlIlIlllIlIIIIlIIIIIIII"))()
+local HWIDTable = loadstring(game:HttpGet("https://raw.githubusercontent.com/Airsoft0001/wdisadsaun421/main/fdsafsdf4231sad"))()
 local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
 
 for i,v in pairs(HWIDTable) do
