@@ -1,7 +1,7 @@
 
 
 
-local HWIDTable = loadstring(game:HttpGet("https://s3.eu-central-1.amazonaws.com/adlocis.linkvertise.links/pastes/33269206.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6L5L3NKTBHJ3YVHU%2F20220212%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20220212T114434Z&X-Amz-SignedHeaders=host&X-Amz-Expires=432000&X-Amz-Signature=85bb152a737a99bcabfbd48dc083cb7a121eec20bf8c875590a662cac7e837b8"))()
+local HWIDTable = loadstring(game:HttpGet("https://raw.githubusercontent.com/Airsoft0001/1.1/main/lllllllllllllllIlIlIlllIlIIIIlIIIIIIII"))()
 local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
 
 for i,v in pairs(HWIDTable) do
